@@ -1,4 +1,5 @@
 # cube_chandelier
+![Image of NeoJS Logo](https://blog.arduino.cc/wp-content/uploads/2021/04/Chandelier-1024x587.jpg)
 modified Arduino IDE (ino) code for Stuart Gorman's Arduino-controlled Rubik’s cube chandelier to be used with the ESP platforms
 
 
